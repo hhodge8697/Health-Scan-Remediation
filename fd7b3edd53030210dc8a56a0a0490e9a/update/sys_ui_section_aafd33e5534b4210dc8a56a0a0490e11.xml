@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="aafd33e5534b4210dc8a56a0a0490e11" sys_domain="global" table="x_523312_healths_0_u_health_scan_import" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_523312_healths_0_u_health_scan_import</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 17:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aafd33e5534b4210dc8a56a0a0490e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_523312_healths_0_u_health_scan_import</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HealthScan Remediations" source="x_523312_healths_0">fd7b3edd53030210dc8a56a0a0490e9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HealthScan Remediations">fd7b3edd53030210dc8a56a0a0490e9a</sys_scope>
+            <sys_update_name>sys_ui_section_aafd33e5534b4210dc8a56a0a0490e11</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 17:56:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

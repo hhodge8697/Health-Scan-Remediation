@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="u_health_scan_recommendations" language="en" table="x_523312_healths_0_u_health_scan_recommendations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>u_health_scan_recommendations</label>
+            <language>en</language>
+            <name>x_523312_healths_0_u_health_scan_recommendations</name>
+            <plural>u_health_scan_recommendations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:33:00</sys_created_on>
+            <sys_id>d2bcf65153430210dc8a56a0a0490e30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_health_scan_recommendations</sys_name>
+            <sys_package display_value="HealthScan Remediations" source="x_523312_healths_0">fd7b3edd53030210dc8a56a0a0490e9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HealthScan Remediations">fd7b3edd53030210dc8a56a0a0490e9a</sys_scope>
+            <sys_update_name>sys_documentation_x_523312_healths_0_u_health_scan_recommendations__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:33:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

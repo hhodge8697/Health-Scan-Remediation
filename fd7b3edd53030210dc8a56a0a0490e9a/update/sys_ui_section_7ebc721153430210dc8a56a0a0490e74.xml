@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7ebc721153430210dc8a56a0a0490e74" sys_domain="global" table="x_523312_healths_0_u_health_scan_recommendations" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recommendation_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:33:51</sys_created_on>
+            <sys_id>aeec721153430210dc8a56a0a0490e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:33:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:34:29</sys_created_on>
+            <sys_id>8c1d329153430210dc8a56a0a0490e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:34:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:34:56</sys_created_on>
+            <sys_id>ae2db29153430210dc8a56a0a0490eca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:34:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:35:08</sys_created_on>
+            <sys_id>693dba1d53030210dc8a56a0a0490e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:35:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:35:21</sys_created_on>
+            <sys_id>684d369153430210dc8a56a0a0490ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assign_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:36:04</sys_created_on>
+            <sys_id>df6d7a9153430210dc8a56a0a0490e7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:36:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:09:08</sys_created_on>
+            <sys_id>96d0c0b9534b4210dc8a56a0a0490e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:09:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:09:30</sys_created_on>
+            <sys_id>77e080b9534b4210dc8a56a0a0490e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_value</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:09:43</sys_created_on>
+            <sys_id>72f044f9534b4210dc8a56a0a0490e80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:09:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_table_pretty</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:10:01</sys_created_on>
+            <sys_id>a701c4f9534b4210dc8a56a0a0490e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:10:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_display</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:10:11</sys_created_on>
+            <sys_id>f91148f9534b4210dc8a56a0a0490e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:10:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_link</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:10:36</sys_created_on>
+            <sys_id>c831c8f9534b4210dc8a56a0a0490ed5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:10:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_table</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:12:47</sys_created_on>
+            <sys_id>f7a10cf9534b4210dc8a56a0a0490e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:12:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_current_ver_src_display</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:13:28</sys_created_on>
+            <sys_id>c2d1883d534b4210dc8a56a0a0490ec2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:13:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:13:42</sys_created_on>
+            <sys_id>15e10c3d534b4210dc8a56a0a0490e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:13:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_table</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:14:49</sys_created_on>
+            <sys_id>7122407d534b4210dc8a56a0a0490ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:14:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>execution_instance</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:15:04</sys_created_on>
+            <sys_id>99320c3d534b4210dc8a56a0a0490e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:15:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>definition_number</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:15:19</sys_created_on>
+            <sys_id>cd42847d534b4210dc8a56a0a0490e2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>definition_category</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:15:56</sys_created_on>
+            <sys_id>0a62047d534b4210dc8a56a0a0490ee5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:15:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>definition_rating</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:16:07</sys_created_on>
+            <sys_id>bc72887d534b4210dc8a56a0a0490ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:16:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>definition_best_practice_url</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:16:24</sys_created_on>
+            <sys_id>8d824c7d534b4210dc8a56a0a0490e2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:16:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>definition_recommendation</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:17:04</sys_created_on>
+            <sys_id>fea20c7d534b4210dc8a56a0a0490eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:17:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_new</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:17:23</sys_created_on>
+            <sys_id>57b200bd534b4210dc8a56a0a0490edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:17:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_base_file</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:17:37</sys_created_on>
+            <sys_id>7ac2c0bd534b4210dc8a56a0a0490ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:17:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_base_version</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 18:17:52</sys_created_on>
+            <sys_id>5ed204bd534b4210dc8a56a0a0490e1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_523312_healths_0_u_health_scan_recommendations" sys_domain="global" view="Default view">7ebc721153430210dc8a56a0a0490e74</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 18:17:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_523312_healths_0_u_health_scan_recommendations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 18:33:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ebc721153430210dc8a56a0a0490e74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_523312_healths_0_u_health_scan_recommendations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HealthScan Remediations" source="x_523312_healths_0">fd7b3edd53030210dc8a56a0a0490e9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HealthScan Remediations">fd7b3edd53030210dc8a56a0a0490e9a</sys_scope>
+            <sys_update_name>sys_ui_section_7ebc721153430210dc8a56a0a0490e74</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 18:33:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
