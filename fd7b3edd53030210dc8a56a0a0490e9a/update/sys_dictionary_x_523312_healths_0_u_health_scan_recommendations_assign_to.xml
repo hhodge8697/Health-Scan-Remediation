@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-26 18:36:04</sys_created_on>
-        <sys_id>1f6d329153430210dc8a56a0a0490ef8</sys_id>
         <sys_name>Assign To</sys_name>
         <sys_package display_value="HealthScan Remediations" source="x_523312_healths_0">fd7b3edd53030210dc8a56a0a0490e9a</sys_package>
         <sys_policy/>

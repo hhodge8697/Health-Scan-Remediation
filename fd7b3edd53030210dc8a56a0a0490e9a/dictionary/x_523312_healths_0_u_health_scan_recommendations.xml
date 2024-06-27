@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d6bcf65153430210dc8a56a0a0490e1c" label="u_health_scan_recommendations" max_length="40" name="x_523312_healths_0_u_health_scan_recommendations" type="collection">
+        <element label="Current Version Source Display" max_length="40" name="source_current_ver_src_display" type="string"/>
+        <element label="Product" max_length="40" name="product" type="string"/>
+        <element label="source base version" max_length="40" name="source_base_version" type="string"/>
+        <element label="Assign To" max_length="32" name="assign_to" reference="sys_user" type="reference"/>
+        <element label="is new" max_length="40" name="is_new" type="string"/>
+        <element label="Recommendation ID " max_length="40" name="recommendation_id" type="string"/>
+        <element choice="1" label="Severity" max_length="40" name="severity" type="choice">
+            <choice/>
+        </element>
+        <element label="Source base file" max_length="40" name="source_base_file" type="string"/>
+        <element label="product table" max_length="40" name="product_table" reference="sys_report_import_table" type="string"/>
+        <element label="Source Value" max_length="40" name="source_value" type="string"/>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+        <element label="definition best practice url" max_length="40" name="definition_best_practice_url" type="string"/>
+        <element label="execution instance" max_length="40" name="execution_instance" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Source Table Pretty" max_length="40" name="source_table_pretty" type="string"/>
+        <element label="Source Link" max_length="40" name="source_link" type="string"/>
+        <element label="Issue Type" max_length="40" name="issue_type" type="string"/>
+        <element label="definition recommendation" max_length="40" name="definition_recommendation" type="string"/>
+        <element label="Source Table" max_length="40" name="source_table" type="string"/>
+        <element label="definition number" max_length="40" name="definition_number" type="string"/>
+        <element label="definition category" max_length="40" name="definition_category" type="string"/>
+        <element label="definition rating" max_length="40" name="definition_rating" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Source Display" max_length="40" name="source_display" type="string"/>
+        <index name="index">
+            <element name="assign_to"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
